@@ -67,3 +67,12 @@ index: lists all todos
 Show: displays an individual todo
 delete: destroys a todo
 Flash(is a hash): can add msgs to it, can displaycontents of messages that are in flash.
+============
+============
+VERSION CONTROL with git
+git config --global user.name "Aleem"
+git config --global user.email "muhammad.aleem@visnext.com" ===> git init
+1: Initialize a git repository for the application ===> git add -A | git commit -m "Initial Commit"
+2: Made an initial commit
+3: 
+
